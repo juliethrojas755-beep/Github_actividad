@@ -1,1 +1,2 @@
-  "version 1.0.0 lista"
+  "version 1.0.0 lista" >> README.md
+  
