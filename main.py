@@ -5,7 +5,7 @@ print("Proyecto Git Flow inicial")
 
 # main.py
 def saludar():
-    print("¡Hola,Bienvenido a mi ProyectoGit Flow!")
+    print("¡Hola,Bienvenidos a mi Proyecto con Git Flow!")
     'def saludo(): print("Bienvenido a Git Flow")' 
 
 # función saludo
@@ -13,4 +13,3 @@ def saludar():
 
 # otra funcionalidad
     'def despedida(): print ("gracias por usar git flow")'
-
